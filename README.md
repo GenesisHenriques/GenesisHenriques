@@ -7,9 +7,9 @@
     <li>- 🔭 Atualmente estudo Análise e desenvolvimento de sistemas na <a href="https://estacio.br/">Estácio</a></li>
     <li>- 💻 Ex designer gráfico</li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre [Programação.Tecnologia.Anime.SeriesFilmes]</li>
-    <li>- 😄 Pronomes: [ele.dele]</li>
-    <li>- ⚡ Fun fact: [Careca em treinamento]</li>
+    <li>- 💬 Me pergunte sobre [Programação, Tecnologia, Anime, SeriesFilmes]</li>
+    <li>- 😄 Pronomes: [ele, dele]</li>
+    <li>- ⚡ Fun fact: [CarecaEmTreinamento]</li>
   </div>
 </div>
 
