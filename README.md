@@ -5,10 +5,11 @@
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🔭 Atualmente estudo Análise e desenvolvimento de sistemas na <a href="https://estacio.br/">Estácio</a></li>
+    <li>- 💻 Ex designer gráfico</li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
     <li>- 💬 Me pergunte sobre [Programação.Tecnologia.Anime.SeriesFilmes]</li>
     <li>- 😄 Pronomes: [ele.dele]</li>
-    <li>- ⚡ Fun fact: [alguma curiosidade sua]</li>
+    <li>- ⚡ Fun fact: [Careca em treinamento]</li>
   </div>
 </div>
 
